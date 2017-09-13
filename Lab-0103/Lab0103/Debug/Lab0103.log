@@ -1,0 +1,4 @@
+﻿  Lab0103.cpp
+c:\users\dusan\documents\visual studio 2017\projects\lab0103\lab0103\polynom.h(94): warning C4018: '>=': signed/unsigned mismatch
+  Lab0103.vcxproj -> C:\Users\dusan\Documents\Visual Studio 2017\Projects\Lab0103\Debug\Lab0103.exe
+  Lab0103.vcxproj -> C:\Users\dusan\Documents\Visual Studio 2017\Projects\Lab0103\Debug\Lab0103.pdb (Partial PDB)
